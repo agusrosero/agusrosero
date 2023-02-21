@@ -1,5 +1,5 @@
-## BUUENAS!!!
-
+## BUUENAS, SOY HERNAN!!! 🖐️
+Seguime en Twitter @hernagusdev ..
 
 
 - 📚 Me estoy especializando en programacion back-end.
