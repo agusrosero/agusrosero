@@ -50,14 +50,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-
-
-
-
-
-
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusrosero&theme=solarized-dark&show_icons=true&locale=en&layout=compact"  alt="agusrosero" height="150"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agusrosero&theme=solarized-dark&show_icons=true&locale=en" alt="agusrosero" height="150"/>
 </div>
-
