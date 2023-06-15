@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">A passionate Developer located in Argentina.<br>Python Developer | I love Linux<br><br>- 🔭 I’m searching working<br>- 📚 I'm currently learning English<br>- ⚡ In my free time I watch Soccer :D</p>
+<p align="left">A passionate Developer located in Argentina.<br>Python Developer | I love Linux<br><br>- :accessibility: My name is Hernan<br>- 🔭 I’m searching working<br>- 📚 I'm currently learning English<br>- ⚡ In my free time I watch Soccer :D</p>
 
 ###
 
