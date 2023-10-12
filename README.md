@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="left">A passionate Developer located in Argentina 🇦🇷.<br>Python Developer | Backend Developer | Linux 🙌 <br><br>- :accessibility: My name is Hernan.<br>- ⚽ Football and Music. 🎵</p>
+<p align="left">A passionate Developer located in Argentina 🇦🇷.<br>Python Developer | Backend Developer | Linux 🙌 <br><br>- :accessibility: My name is Hernan.<br>- ⚽ Football and Music. 🎵<br> - 📚 I’m currently learning English</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hernan-rosero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hernagusdev) 
