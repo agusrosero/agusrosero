@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **English**
 
-⚽ Football and Music. 🎵
+⚽ **Football** and **Music**. 🎵
 
  </div>
  
