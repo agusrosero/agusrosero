@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,python,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" />
 </div>
 
