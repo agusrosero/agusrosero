@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git,linux" />
 </div>
 
 <br/>
