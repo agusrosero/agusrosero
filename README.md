@@ -8,7 +8,7 @@
 
 <div align="center">
  
-👤 My name is **Hernan**.
+👤 My name is **Hernan Rosero**.
  
 🌱 I’m currently learning **English**.
 
