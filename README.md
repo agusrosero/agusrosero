@@ -33,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=html,bootstrap,github,git,linux" />
 </div>
-
 <br/>
 <hr/>
 
@@ -43,7 +42,6 @@
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=agusrosero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
-
 <div align="center">
     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrosero&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
