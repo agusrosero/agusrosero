@@ -10,6 +10,7 @@
 🌱 I’m currently learning **English**.
 
 ⚽ **Football** and **Music**. 🎵
+
  </div>
  
 <div align="center">
@@ -30,6 +31,7 @@
     <img src="https://skillicons.dev/icons?i=html,bootstrap,github,git,linux" />
 </div>
 <br/>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
