@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate programmer from Argentina 🇦🇷</h3>
 <br/>
-<div align="center">
+<div align="center">    
     
 👤 My name is **Hernan Rosero**.
  
@@ -11,7 +11,7 @@
 
 ⚽ **Football** and **Music**. 🎵
 
- </div>
+</div>
  
 <div align="center">
   <a href="mailto:agusrosero2000@gmail.com">
@@ -35,6 +35,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 
 <div align="center">
