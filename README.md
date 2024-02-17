@@ -1,48 +1,15 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hernan+Rosero!;" />
-</h1>
-<h3 align="center">A passionate programmer from Argentina 🇦🇷</h3>
+# 💫 About Me:
+👤 My name is Hernan Rosero.<br><br>🌱 I’m currently learning English.<br><br>⚽ Football and Music. 🎵
 
-<br/>
 
-<div align="center">    
-    
-👤 My name is **Hernan Rosero**.
- 
-🌱 I’m currently learning **English**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hernan-rosero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hernagusdev) 
 
-⚽ **Football** and **Music**. 🎵
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=agusrosero&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=agusrosero&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrosero&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
- 
-<div align="center">
-  <a href="mailto:agusrosero2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/hernan-rosero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,github,git,linux" />
-</div>
-<br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br>
-
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=agusrosero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-<div align="center">
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrosero&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
