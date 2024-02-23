@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 My name is Hernan Rosero.<br><br>🌱 I’m currently learning English.<br><br>⚽ Football and Music. 🎵
+👤 My name is <strong>Hernan Rosero.</strong><br><br>🌱 I’m currently learning English.<br><br>⚽ Football and Music. 🎵
 
 
 ## 🌐 Socials:
