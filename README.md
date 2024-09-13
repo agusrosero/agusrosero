@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Soy un joven programador de Argentina 🇦🇷.<br><br>- 🖥️ Programacion<br>- 📚 Aprendiendo: Javascript, CSS...<br>- 📬 DM para consultas!</p>
+<p align="left">Soy un joven programador de Argentina 🇦🇷<br><br>- 🖥️ Programacion<br>- 📚 Aprendiendo: Javascript, CSS...<br>- 📬 DM para consultas!</p>
 
 ###
 
